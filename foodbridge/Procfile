@@ -1,2 +1,2 @@
-web: java -war target/foodbridge-0.0.1-SNAPSHOT.war
+web: java 
 
